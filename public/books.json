@@ -5,7 +5,7 @@
     "publish_year": 2022,
     "author_name": "John Doe",
     "book_price": 29.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000001-L.jpg"
+    "book_image_url": "../src/assets/Book-Cover/0000000001-L.jpg"
   },
   {
     "id": 2,
