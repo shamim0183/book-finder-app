@@ -62,11 +62,12 @@ const Book = ({ ...bookdata }) => {
             <button
               onClick={toggleFavorite}
               className={`flex min-w-[132px] items-center justify-center gap-1 rounded-md ${favorite
-                ? 'bg-[#DC2954] text-white'
-                : 'bg-[#1C4336]/[14%] text-[#1C4336]'
-                } py-1.5 transition-all hover:bg-${favorite ? '[#DC2954]/[24%]' : '[#1C4336]/[24%]'} lg:py-1.5`}
+                  ? 'bg-[#DC2954]/[14%] text-[#DC2954]'
+                  : 'bg-[#1C4336]/[14%] text-[#1C4336]'
+                } py-1.5 transition-all hover:bg-${favorite ? '[#DC2954]/[24%]' : '[#1C4336]/[24%]'
+                } lg:py-1.5`}
             >
-              {favorite ? <FaHeart color='white' /> : <FaRegHeart />}
+              {favorite ? <FaHeart color="#DC2954" /> : <FaRegHeart />}
               Favourite
             </button>
           </div>
