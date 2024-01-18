@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "book_name": "The Art of Programming",
+    "publish_year": 2022,
+    "author_name": "John Doe",
+    "book_price": 29.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000001-L.jpg"
+  },
+  {
+    "id": 2,
+    "book_name": "Science Fiction Wonders",
+    "publish_year": 2020,
+    "author_name": "Jane Smith",
+    "book_price": 24.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000002-L.jpg"
+  },
+  {
+    "id": 3,
+    "book_name": "Historical Chronicles",
+    "publish_year": 2021,
+    "author_name": "Robert Johnson",
+    "book_price": 19.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000003-L.jpg"
+  },
+  {
+    "id": 4,
+    "book_name": "The Mystery of Time",
+    "publish_year": 2019,
+    "author_name": "Emily White",
+    "book_price": 32.50,
+    "book_image_url": "/src/assets/Book-Cover/0000000004-L.jpg"
+  },
+  {
+    "id": 5,
+    "book_name": "Quantum Computing Basics",
+    "publish_year": 2023,
+    "author_name": "Michael Brown",
+    "book_price": 35.75,
+    "book_image_url": "/src/assets/Book-Cover/0000000005-L.jpg"
+  },
+  {
+    "id": 6,
+    "book_name": "The Poetry Collection",
+    "publish_year": 2018,
+    "author_name": "Sophia Taylor",
+    "book_price": 18.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000006-L.jpg"
+  },
+  {
+    "id": 7,
+    "book_name": "Economics in Action",
+    "publish_year": 2020,
+    "author_name": "Daniel Turner",
+    "book_price": 27.25,
+    "book_image_url": "/src/assets/Book-Cover/0000000007-L.jpg"
+  },
+  {
+    "id": 8,
+    "book_name": "Adventures in Space",
+    "publish_year": 2021,
+    "author_name": "Andrew Clark",
+    "book_price": 22.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000008-L.jpg"
+  },
+  {
+    "id": 9,
+    "book_name": "Cooking with Love",
+    "publish_year": 2017,
+    "author_name": "Isabella Baker",
+    "book_price": 30.00,
+    "book_image_url": "/src/assets/Book-Cover/0000000009-L.jpg"
+  },
+  {
+    "id": 10,
+    "book_name": "The Great Expedition",
+    "publish_year": 2024,
+    "author_name": "Christopher Adams",
+    "book_price": 25.50,
+    "book_image_url": "/src/assets/Book-Cover/0000000010-L.jpg"
+  },
+  {
+    "id": 11,
+    "book_name": "Artificial Intelligence Unleashed",
+    "publish_year": 2023,
+    "author_name": "Olivia Green",
+    "book_price": 34.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000011-L.jpg"
+  },
+  {
+    "id": 12,
+    "book_name": "Mysteries of the Deep",
+    "publish_year": 2019,
+    "author_name": "Benjamin Fisher",
+    "book_price": 28.75,
+    "book_image_url": "/src/assets/Book-Cover/0000000012-L.jpg"
+  },
+  {
+    "id": 13,
+    "book_name": "Traveling Through Time",
+    "publish_year": 2022,
+    "author_name": "Sophie Miller",
+    "book_price": 21.50,
+    "book_image_url": "/src/assets/Book-Cover/0000000013-L.jpg"
+  },
+  {
+    "id": 14,
+    "book_name": "The Culinary Masterpiece",
+    "publish_year": 2020,
+    "author_name": "William Turner",
+    "book_price": 26.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000014-L.jpg"
+  },
+  {
+    "id": 15,
+    "book_name": "Mathematics Explained",
+    "publish_year": 2021,
+    "author_name": "Emma Harris",
+    "book_price": 23.25,
+    "book_image_url": "/src/assets/Book-Cover/0000000015-L.jpg"
+  },
+  {
+    "id": 16,
+    "book_name": "The Jungle Adventure",
+    "publish_year": 2018,
+    "author_name": "Alexander Scott",
+    "book_price": 17.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000016-L.jpg"
+  },
+  {
+    "id": 17,
+    "book_name": "Space Odyssey",
+    "publish_year": 2023,
+    "author_name": "Lily Robinson",
+    "book_price": 29.50,
+    "book_image_url": "/src/assets/Book-Cover/0000000017-L.jpg"
+  },
+  {
+    "id": 18,
+    "book_name": "Culinary Delights",
+    "publish_year": 2017,
+    "author_name": "Charles Johnson",
+    "book_price": 24.50,
+    "book_image_url": "/src/assets/Book-Cover/0000000018-L.jpg"
+  },
+  {
+    "id": 19,
+    "book_name": "The Science of Mind",
+    "publish_year": 2022,
+    "author_name": "Laura Williams",
+    "book_price": 31.00,
+    "book_image_url": "/src/assets/Book-Cover/0000000019-L.jpg"
+  },
+  {
+    "id": 20,
+    "book_name": "Historical Fiction Tales",
+    "publish_year": 2020,
+    "author_name": "David Turner",
+    "book_price": 20.99,
+    "book_image_url": "/src/assets/Book-Cover/0000000020-L.jpg"
+  }
+]
