@@ -5,7 +5,7 @@
     "publish_year": 2022,
     "author_name": "John Doe",
     "book_price": 29.99,
-    "book_image_url": "../src/assets/Book-Cover/0000000001-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000001-L.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "publish_year": 2020,
     "author_name": "Jane Smith",
     "book_price": 24.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000002-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000002-L.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "publish_year": 2021,
     "author_name": "Robert Johnson",
     "book_price": 19.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000003-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000003-L.jpg"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "publish_year": 2019,
     "author_name": "Emily White",
     "book_price": 32.50,
-    "book_image_url": "/src/assets/Book-Cover/0000000004-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000004-L.jpg"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "publish_year": 2023,
     "author_name": "Michael Brown",
     "book_price": 35.75,
-    "book_image_url": "/src/assets/Book-Cover/0000000005-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000005-L.jpg"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "publish_year": 2018,
     "author_name": "Sophia Taylor",
     "book_price": 18.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000006-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000006-L.jpg"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "publish_year": 2020,
     "author_name": "Daniel Turner",
     "book_price": 27.25,
-    "book_image_url": "/src/assets/Book-Cover/0000000007-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000007-L.jpg"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "publish_year": 2021,
     "author_name": "Andrew Clark",
     "book_price": 22.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000008-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000008-L.jpg"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "publish_year": 2017,
     "author_name": "Isabella Baker",
     "book_price": 30.00,
-    "book_image_url": "/src/assets/Book-Cover/0000000009-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000009-L.jpg"
   },
   {
     "id": 10,
@@ -77,7 +77,7 @@
     "publish_year": 2024,
     "author_name": "Christopher Adams",
     "book_price": 25.50,
-    "book_image_url": "/src/assets/Book-Cover/0000000010-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000010-L.jpg"
   },
   {
     "id": 11,
@@ -85,7 +85,7 @@
     "publish_year": 2023,
     "author_name": "Olivia Green",
     "book_price": 34.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000011-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000011-L.jpg"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "publish_year": 2019,
     "author_name": "Benjamin Fisher",
     "book_price": 28.75,
-    "book_image_url": "/src/assets/Book-Cover/0000000012-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000012-L.jpg"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "publish_year": 2022,
     "author_name": "Sophie Miller",
     "book_price": 21.50,
-    "book_image_url": "/src/assets/Book-Cover/0000000013-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000013-L.jpg"
   },
   {
     "id": 14,
@@ -109,7 +109,7 @@
     "publish_year": 2020,
     "author_name": "William Turner",
     "book_price": 26.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000014-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000014-L.jpg"
   },
   {
     "id": 15,
@@ -117,7 +117,7 @@
     "publish_year": 2021,
     "author_name": "Emma Harris",
     "book_price": 23.25,
-    "book_image_url": "/src/assets/Book-Cover/0000000015-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000015-L.jpg"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "publish_year": 2018,
     "author_name": "Alexander Scott",
     "book_price": 17.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000016-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000016-L.jpg"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "publish_year": 2023,
     "author_name": "Lily Robinson",
     "book_price": 29.50,
-    "book_image_url": "/src/assets/Book-Cover/0000000017-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000017-L.jpg"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "publish_year": 2017,
     "author_name": "Charles Johnson",
     "book_price": 24.50,
-    "book_image_url": "/src/assets/Book-Cover/0000000018-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000018-L.jpg"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "publish_year": 2022,
     "author_name": "Laura Williams",
     "book_price": 31.00,
-    "book_image_url": "/src/assets/Book-Cover/0000000019-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000019-L.jpg"
   },
   {
     "id": 20,
@@ -157,6 +157,6 @@
     "publish_year": 2020,
     "author_name": "David Turner",
     "book_price": 20.99,
-    "book_image_url": "/src/assets/Book-Cover/0000000020-L.jpg"
+    "book_image_url": "/public/Book-Cover/0000000020-L.jpg"
   }
 ]
