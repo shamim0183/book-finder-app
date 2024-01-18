@@ -6,17 +6,10 @@ import BooksData from '/public/books.json';
 
 const Main = () => {
   const [searchQuery, setSearchQuery] = useState('');
-  const [favorites, setFavorites] = useState(new Array(BooksData.length).fill(false));
   const [sortOption, setSortOption] = useState('');
 
   const resetSearch = () => {
     setSearchQuery('');
-  };
-
-  const handleFavoriteToggle = (index) => {
-    const updatedFavorites = [...favorites];
-    updatedFavorites[index] = !updatedFavorites[index];
-    setFavorites(updatedFavorites);
   };
 
   const handleSortChange = (selectedSortOption) => {
@@ -67,12 +60,10 @@ const Main = () => {
         {/* header ends */}
         {/* Book Grid */}
         <div className="container mx-auto grid grid-cols-1 gap-8 max-w-7xl md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-          {getSortedBooks().map((bookData, index) => (
+          {getSortedBooks().map((bookData) => (
             <Book
               key={bookData.id}
               {...bookData}
-              isFavorite={favorites[index]}
-              onFavoriteToggle={() => handleFavoriteToggle(index)}
             />
           ))}
         </div>
